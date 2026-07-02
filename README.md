@@ -1,4 +1,5 @@
- # E-Commerce Business Analytics Pipeline & Dashboard
+#Business-Sales-Analytics-Dashboard
+
 [Dashboard Preview](dashboard_screenshot.jpeg)
 [Download Dashboard (.pbix)](Sales_Revenue_Dashboard.pbix)
 [SQL View (.sql)](https://github.com/user-attachments/files/29092453/SQL.View.sql)
